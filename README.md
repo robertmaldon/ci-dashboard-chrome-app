@@ -1,6 +1,8 @@
 ci-dashboard-chrome-app
 =======================
 
+**DEPRECATED! Unfortunately the chrome team is [killing off chrome apps](https://blog.chromium.org/2016/08/from-chrome-apps-to-web.html). Use [https://github.com/robertmaldon/ci-dashboard-electron-app](https://github.com/robertmaldon/ci-dashboard-electron-app), an electron port of this app, instead.**
+
 A Chrome application that aggregates build status from multiple continuous integration servers and radiates (fun!) notifications of build events.
 
 ## Why do we need it?
